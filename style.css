@@ -99,7 +99,7 @@ a:hover {
     background-attachment: fixed;
 }
 
-.d-bloc {
+.bloc {
     color: rgba(255, 255, 255, .7);
 }
 
@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(255, 254, 254, 0.5);
 }
 
 .d-bloc .panel button:hover,
@@ -231,7 +231,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -284,7 +284,7 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 40px;
 }
 
 .navbar {
@@ -659,7 +659,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 45px;
 }
 
 .hero-bloc-text-sub {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -700,7 +700,7 @@ p {
 }
 
 .social {
-    max-width: 500px;
+    max-width: 600px;
     margin: auto auto auto auto;
 }
 
@@ -741,6 +741,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    margin-left: 12px;
 }
 
 .portfolio-row {
@@ -775,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffe9df!important;
 }
 
 .btn-atomic-tangerine {
@@ -883,7 +884,9 @@ h4 {
         padding: 0 20px;
     }
 }
-
+footer ul, li{
+    padding-top : 15px;
+}
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;

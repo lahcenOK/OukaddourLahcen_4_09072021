@@ -1809,7 +1809,7 @@ ul ul {
 .list-inline>li {
     display: inline-block;
     padding-right: 5px;
-    padding-left: 5px
+    padding-left: 5px;
 }
 
 dl {
@@ -2010,10 +2010,10 @@ pre code {
     margin-left: auto
 }
 
-.row {
+/*.row {
     margin-right: -15px;
     margin-left: -15px
-}
+}*/
 
 .col-lg-1,
 .col-lg-10,
@@ -2064,9 +2064,10 @@ pre code {
 .col-xs-8,
 .col-xs-9 {
     position: relative;
-    min-height: 1px;
+    min-height: 9px;
     padding-right: 15px;
-    padding-left: 15px
+    padding-left: 15px;
+    padding-top: 13px;
 }
 
 .col-xs-1,
