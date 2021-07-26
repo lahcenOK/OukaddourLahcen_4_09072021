@@ -476,7 +476,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 27px!important;
 }
 
 .icon-lg {
@@ -885,7 +885,7 @@ h4 {
     }
 }
 footer ul, li{
-    padding-top : 15px;
+    padding-top : 9px;
 }
 @media (max-width: 767px) {
     .page-container {

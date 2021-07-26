@@ -1390,7 +1390,7 @@ html {
 
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.42857143;
     color: #333;
     background-color: #fff
@@ -2067,7 +2067,7 @@ pre code {
     min-height: 9px;
     padding-right: 15px;
     padding-left: 15px;
-    padding-top: 13px;
+    padding-top: 9px;
 }
 
 .col-xs-1,
