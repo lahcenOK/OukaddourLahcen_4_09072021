@@ -100,7 +100,8 @@ a:hover {
 }
 
 .bloc {
-   color: rgba(255, 255, 255, .7);
+  /* color: rgba(255, 255, 255, .7);*/
+   color: rgb(5, 5, 5);
 }
 
 .d-bloc button:hover {
@@ -133,7 +134,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: #fff;
+    color: rgb(8, 8, 8);
     /*color: rgba(255, 255, 255, .6);*/
 }
 
@@ -151,8 +152,8 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    /*color: rgba(255, 255, 255, 1);*/
-    color: rgba(255, 255, 255, .6);
+    /*color: rgba(255, 255, 255, 1);*/ color: #fff;
+    
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -1042,5 +1043,5 @@ footer ul, li{
     padding-top : 9px;
 }
 footer p {
-    font-weight: 700;
+    font-weight: 799;
 }
