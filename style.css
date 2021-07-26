@@ -100,7 +100,7 @@ a:hover {
 }
 
 .bloc {
-    color: rgba(255, 255, 255, .7);
+   color: rgba(255, 255, 255, .7);
 }
 
 .d-bloc button:hover {
@@ -653,7 +653,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-   /* color: #575757!important;*/color: #161616!important;
+    color: #212121!important;/*color: #555252!important;*/
 }
 
 .container {
@@ -774,7 +774,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    /*background-color: #b65d40;*/background-color: #d16c4a;
+    /*background-color: #b65d40;*/background-color: #f69365;
 }
 
 .tc-white {
@@ -782,12 +782,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background:  #d16c4a;
+    background:  #ce734a;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #f69365!important;
     color: #FFFFFF!important;
 }
 
@@ -885,10 +885,7 @@ h4 {
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
     }
-}
-footer ul, li{
-    padding-top : 9px;
-}
+
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
@@ -1039,4 +1036,11 @@ footer ul, li{
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+}
+footer ul, li{
+    padding-top : 9px;
+}
+footer p {
+    font-weight: 700;
 }
