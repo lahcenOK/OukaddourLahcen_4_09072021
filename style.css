@@ -100,7 +100,6 @@ a:hover {
 }
 
 .bloc {
-  /* color: rgba(255, 255, 255, .7);*/
    color: rgb(5, 5, 5);
 }
 
@@ -135,7 +134,6 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a {
     color: rgb(8, 8, 8);
-    /*color: rgba(255, 255, 255, .6);*/
 }
 
 .d-bloc .a-btn:hover,
@@ -152,7 +150,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    /*color: rgba(255, 255, 255, 1);*/ color: #fff;
+    color: #fff;
     
 }
 
@@ -654,7 +652,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #212121!important;/*color: #555252!important;*/
+    color: #212121!important;
 }
 
 .container {
@@ -774,7 +772,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    /*background-color: #b65d40;*/background-color: #f69365;
+    background-color: #f69365;
 }
 
 .tc-white {
