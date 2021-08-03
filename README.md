@@ -18,8 +18,8 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
     Devtools
     W3C Validator
     Lighthouse Report viewer
-    Alyze
     GTmetrix
-    Seolyser
+    WAVE Web Accessibility Evaluation Tool
+    Test d’optimisation mobile
     Microsoft Excel
     Microsoft PowerPoint
